@@ -58,7 +58,7 @@ One interesting thing I learned was how to **apply hover effects** dynamically:
 .blog-title:hover {
   color: #f4d04e; /* Changes text to yellow on hover */
   transition: color 0.3s ease;
-}your own learnings.**
+}
 
 ### Continued development
 
